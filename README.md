@@ -8,7 +8,6 @@
 
 Feel free to contact me !
 
-Regards from Germany !
+## Regards from Germany !
 
 
-![LukasLiveCS](https://raw.githubusercontent.com/LukasR-DEV/LukasR-DEV/main/_Avatar.PNG)
