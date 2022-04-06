@@ -11,4 +11,4 @@ Feel free to contact me !
 Regards from Germany !
 
 
-![LukasLiveCS](https://myoctocat.com/assets/images/base-octocat.svg)
+![LukasLiveCS](https://raw.githubusercontent.com/LukasR-DEV/LukasR-DEV/main/_Avatar.PNG)
