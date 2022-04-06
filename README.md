@@ -1,3 +1,5 @@
+<hr>
+
 - 👋 Hi, I’m @LukasR-DEV
 - 👀 I’m interested in Gaming,Video Creating,PHP,JS,HTML and a bit C#
 - 🌱 I’m currently have a internship at DG
@@ -9,5 +11,7 @@
 Feel free to contact me !
 
 ## Regards from Germany !
+
+<img src="https://raw.githubusercontent.com/LukasR-DEV/LukasR-DEV/main/_Avatar.PNG" height="100px">
 
 
