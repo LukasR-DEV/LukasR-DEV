@@ -12,6 +12,6 @@ Feel free to contact me !
 
 ## Regards from Germany !
 
-<img src="https://raw.githubusercontent.com/LukasR-DEV/LukasR-DEV/main/_Avatar.PNG"  onclick="location.href='https://github.com/LukasR-DEV/'" height="100px">
+<img src="https://raw.githubusercontent.com/LukasR-DEV/LukasR-DEV/main/_Avatar.PNG"  href="#" onclick="location.href='https://github.com/LukasR-DEV/'" height="100px">
 
 
